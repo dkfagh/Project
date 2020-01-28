@@ -7,7 +7,7 @@
 <body>
 <h1>
 <<<<<<< HEAD
-	Hello world! byebye
+	Hello world! sdfsdf
 =======
 	Hello world!  bye bye
 >>>>>>> branch 'master' of https://github.com/dkfagh/Project
