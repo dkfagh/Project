@@ -7,10 +7,7 @@
 <body>
 
 <h1>Taegyu ZZANG!</h1>
-<<<<<<< HEAD
-<h2>wow</h2>
-=======
 <h1>wow</h1>
->>>>>>> branch 'master' of C:\Users\1class-022\git\Project\.git
+<h2>test</h2>
 </body>
 </html>
