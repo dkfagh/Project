@@ -6,9 +6,18 @@
 </head>
 <body>
 <h1>
+<<<<<<< HEAD
 	Hello world!  aaa
+=======
+<<<<<<< HEAD
+	Hello world! sdfsdf
+=======
+	Hello world!  bye bye
+>>>>>>> branch 'master' of https://github.com/dkfagh/Project
+>>>>>>> branch 'master' of https://github.com/dkfagh/Project
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<p>  0128   </p>
 </body>
 </html>
