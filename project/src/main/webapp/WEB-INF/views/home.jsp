@@ -7,10 +7,14 @@
 <body>
 <h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Hello world!  aaa
 =======
 <<<<<<< HEAD
 	Hello world! sdfsdf
+=======
+	Hello world! DDDDDDDD
+>>>>>>> branch 'master' of https://github.com/dkfagh/Project
 =======
 	Hello world!  bye bye
 >>>>>>> branch 'master' of https://github.com/dkfagh/Project
