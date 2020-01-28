@@ -1,0 +1,4 @@
+# pack-refs with: peeled
+c2a35b70bd87cc0ce52e8c2c069fee1a1cc33a75 refs/remotes/origin/dependabot/maven/project/org.springframework-version-5.2.3.RELEASE
+704d5cd09965334ff0c1984490abafbc37156ac7 refs/remotes/origin/dependabot/maven/project/project/project/target/m2e-wtp/web-resources/META-INF/maven/org.zerock/controller/org.springframework-version-5.2.3.RELEASE
+9e316f20dd8a8cb6038bd728e0cb5e9f77a7bb28 refs/remotes/origin/master
