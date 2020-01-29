@@ -14,9 +14,7 @@
 	<title>Home</title>
 </head>
 <body>
-
-<h1>Taegyu ZZANG!</h1>
-<h1>wow</h1>
+<h2>test</h2>
 
 <div id="summernote">Hello Summernote</div>
 
@@ -25,6 +23,7 @@ $(document).ready(function() {
 	  $('#summernote').summernote();
 	});
 </script>
+
 
 </body>
 </html>
